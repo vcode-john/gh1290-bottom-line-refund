@@ -26,6 +26,8 @@ Blab-a-Gag is a fairly simple forum type application which allows:
    
 ## Configure
 
+a change
+
 Build and installation requires [Maven](https://maven.apache.org), [MySQL](https://www.mysql.com/) and [Tomcat](https://tomcat.apache.org/).
 
 The simplest way to aquire these on MacOS is via [Homebrew](http://brew.sh/). Install Homebrew then:
